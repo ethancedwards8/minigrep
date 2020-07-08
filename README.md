@@ -1,2 +1,2 @@
 # minigrep
-Following the rust book
+minigrep
